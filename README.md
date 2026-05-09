@@ -162,7 +162,7 @@ src/
 
 #### 📱 Mobile View
 
-![Mobile View](src/images/image7.png)
+![Mobile View](src/iamges/image7.png)
 
 
 
